@@ -1,0 +1,149 @@
+﻿Category,Part,Qty,Unit,Detail
+Custom,BASE-LONG,2,each,Rect tube 2 x 1 x 0.125 wall
+Custom,BASE-OUTER-RAIL,2,each,Rect tube 2 x 1 x 0.125 wall
+Custom,BATTERY-FLOOR-CROSS-EXTRA,1,each,Sq tube 1 x 1 x 0.125 wall
+Custom,BATTERY-TRAY,2,each,Bent battery tray; use flat pattern.
+Custom,BOX-CRADLE-END-FRONT,1,each,Angle 1-1/4 x 1-1/4 x 1/8 in
+Custom,BOX-CRADLE-END-REAR,1,each,Angle 1-1/4 x 1-1/4 x 1/8 in
+Custom,BOX-CRADLE-FRONT-STOP,1,each,Angle 1 x 1 x 1/8 in
+Custom,BOX-KEEPER,1,each,Bent keeper; use flat pattern.
+Custom,BOX-PAD,1,each,Rubber mat 1/8 in
+Custom,CASTER-ADAPTER,4,each,Plate 1/4 in
+Custom,CASTER-NUT-BAR-INNER,4,each,"Flat bar 3/8 x 1-1/2 in, tapped 3/8-16"
+Custom,CASTER-NUT-BAR-OUTER,4,each,"Flat bar 3/8 x 1-1/2 in, tapped 3/8-16"
+Custom,COIL-HOOK,1,each,Bent hook; use flat pattern.
+Custom,CONTACT-BAR,2,each,Rect tube 2 x 1 x 0.125 wall
+Custom,CONTACT-EDGE-PAD,4,each,Rubber edge trim
+Custom,CROWN-GUSSET-BACKING,4,each,"Flat bar 1/4 x 3/4 in, tapped 10-32"
+Custom,FLOOR-CROSS,3,each,Sq tube 1 x 1 x 0.125 wall
+Custom,FLOOR-PAN,1,each,Sheet 0.080 in
+Custom,FOOT-END-PLUG-V1,3,each,Bar 3/4 x 7/8 in
+Custom,FOOT-END-PLUG-V2,1,each,Bar 3/4 x 7/8 in
+Custom,FRAME-CROWN-FRONT,1,each,Rect tube 2 x 1 x 0.125 wall
+Custom,FRAME-CROWN-REAR,1,each,Rect tube 2 x 1 x 0.125 wall
+Custom,FRAME-END-FRONT,1,each,Rect tube 2 x 1 x 0.125 wall
+Custom,FRAME-END-REAR,1,each,Rect tube 2 x 1 x 0.125 wall
+Custom,FRONT-BRANDING-PANEL-26X14,1,each,"One formed panel, including all four returns."
+Custom,FRONT-PANEL-EDGE-BRACKET,2,each,Flat bar 1/16 x 3/4 in
+Custom,FRONT-PANEL-GUARD,4,each,Printed guards; two upper and two lower.
+Custom,FRONT-PANEL-MOUNT,2,each,Scrap tab 1/16 in
+Custom,FRONT-PANEL-MOUNT-TAB,2,each,Flat bar 5/16 x 1 in
+Custom,GUSSET-BACKING,4,each,"Steel flat bar 1/4 x 3/4 in, tapped 10-32"
+Custom,HANDLE-BUSHING-V1,2,each,"UHMW round bar 1-3/4 in, bored 1.33 in"
+Custom,HANDLE-BUSHING-V2,2,each,"UHMW round bar 1-3/4 in, bored 1.33 in"
+Custom,HANDLE-CROSS-PIPE,1,each,Pipe 1 in sch 40
+Custom,HANDLE-LOWER-STOP,2,each,UHMW block 1-3/8 sq
+Custom,HANDLE-PIPE-UPRIGHT,2,each,Pipe 1 in sch 40
+Custom,HANDLE-STOP-PAD,2,each,Rubber pad 1/4 in
+Custom,HINGE-LUG-INNER-FRONT,2,each,Bent hinge cheeks; left and right pair.
+Custom,HINGE-LUG-OUTER-FRONT,2,each,Plate 3/16 in
+Custom,HINGE-LUG-REAR,2,each,Plate 3/16 in
+Custom,HINGE-U-BRACKET,1,each,Bent rear-left hinge bracket.
+Custom,KEEPER-RELEASE,2,each,Printed keeper pull tabs.
+Custom,LADDER-TIE,2,each,Sq tube 1 x 1 x 0.125 wall
+Custom,LADDER-TIE-END-BAR,4,each,"Square bar 3/4 in, tapped 1/4-20"
+Custom,PORTAL-GUSSET,4,each,Plate 1/8 in
+Custom,POST-FRONT,2,each,Rect tube 2 x 1 x 0.125 wall
+Custom,POST-REAR,2,each,Sq tube 2 x 2 x 0.125 wall
+Custom,RAIL-ANGLE,8,each,Angle 1-1/4 x 3/4 x 1/8 in
+Custom,RAIL-EAR,4,each,Plate 3/16 in
+Custom,REEL-CRADLE,1,each,Bent reel cradle; use flat pattern.
+Custom,REEL-CRADLE-PAD-V1,1,each,Rubber strip 3/8 x 1/2 in
+Custom,REEL-CRADLE-PAD-V2,1,each,Rubber strip 3/8 x 1/2 in
+Custom,REPAIR-POUCH-SKID-V1,1,each,UHMW flat bar 3/8 x 3/8 in
+Custom,REPAIR-POUCH-SKID-V2,1,each,UHMW flat bar 3/8 x 3/8 in
+Custom,ROBOT-PAD,2,each,"Neoprene strip 1/4 x 2 in, adhesive back"
+Custom,ROBOT-RAIL,2,each,Sq tube 2 x 2 x 0.125 wall
+Custom,ROBOT-RAIL-TRANSPORT-PAD-FRONT,2,each,"Neoprene strip 1/4 x 2 in, adhesive back"
+Custom,ROBOT-RAIL-TRANSPORT-PAD-REAR,2,each,"Rubber block 1-1/4 x 2 in, adhesive back"
+Custom,STAND-BRACKET,2,each,Flat bar 3/16 x 2 in
+Custom,TOOLBOX-SKID-INNER,1,each,UHMW flat bar 1/4 x 1 in
+Custom,TOOLBOX-SKID-OUTER,1,each,UHMW flat bar 1/4 x 1 in
+Custom,TOP-CORNER-PLATE,2,each,Plate 1/8 in
+Custom,TPU-CORNER-NOTCHED-RL,1,each,"3D print TPU 95A, black"
+Custom,TPU-CORNER-V1,2,each,"3D print TPU 95A, black"
+Custom,TPU-CORNER-V2,1,each,"3D print TPU 95A, black"
+Custom,UPPER-SIDE-RAIL,2,each,Rect tube 2 x 1 x 0.125 wall
+Supplied,BATTERY,2,each,Supplied battery setup; terminal covers included.
+Supplied,CASTER-ASSEMBLY,4,each,Complete caster; mounting bolts listed separately.
+Supplied,CONTACT-CAP,4,each,Rubber tube cap 2 x 1
+Supplied,CORD-REEL,1,each,Complete cord reel; stand and internals included.
+Supplied,ETHERNET-COIL,1,each,Complete Ethernet cable coil.
+Supplied,FOOTMAN-LOOP-BATTERY,2,each,Strap loops on battery trays.
+Supplied,FOOTMAN-LOOP-REEL,2,each,Strap loops on reel cradle.
+Supplied,FRONT-PANEL-SHIM,6,each,Steel shim washer
+Supplied,FRONT-POST-CAP,2,each,Plastic cap 2 x 1
+Supplied,HANDLE-BEARING-RETAINER,4,each,Retaining ring
+Supplied,HANDLE-ELBOW,2,each,Complete elbow fitting; setscrews included.
+Supplied,HANDLE-GRIP,1,each,Grip sleeve for handle cross-pipe.
+Supplied,RAIL-END-CAP,4,each,Rubber tube cap 2 x 2
+Supplied,RECEIVER-CAP,2,each,Caps for the rear handle receivers.
+Supplied,REPAIR-POUCH,1,each,Complete pouch; contents excluded.
+Supplied,ROBOT-TIE-DOWN-DRING,4,each,Complete D-ring fittings.
+Supplied,STAND-FOOT,4,each,Complete rubber feet with threaded inserts.
+Supplied,TOOLBOX,1,each,Complete toolbox; drawers and internals included.
+Hardware,BATTERY-CADDY-RIVET-A,6,each,Rivet; model size group A.
+Hardware,BATTERY-CADDY-RIVET-B,2,each,Rivet; model size group B.
+Hardware,BOX-CRADLE-RIVET-A,2,each,Rivet; model size group A.
+Hardware,BOX-CRADLE-RIVET-B,1,each,Rivet; model size group B.
+Hardware,BOX-CRADLE-RIVET-END-A,2,each,Rivet; model size group A.
+Hardware,BOX-CRADLE-RIVET-END-B,2,each,Rivet; model size group B.
+Hardware,CASTER-BOLT,16,each,Bolt
+Hardware,COIL-HOOK-RIVET,2,each,Rivet
+Hardware,CONTACT-LOWER-SLEEVE,6,each,Sleeve
+Hardware,CONTACT-RISER-BOLT,6,each,Bolt
+Hardware,CONTACT-RISER-NUT,6,each,Nut
+Hardware,CONTACT-UPPER-SLEEVE,6,each,Sleeve
+Hardware,FLOOR-CLAMP-WASHER,20,each,Washer
+Hardware,FLOOR-CROSS-RIVET,17,each,Rivet
+Hardware,FOOT-BOLT,4,each,Bolt
+Hardware,FOOT-NUT,4,each,Nut
+Hardware,FOOT-SLEEVE,2,each,Sleeve
+Hardware,FOOTMAN-RIVET-BATTERY,4,each,Rivet
+Hardware,FOOTMAN-RIVET-REEL,4,each,Rivet
+Hardware,FRAME-BOLT-SLEEVE,16,each,Sleeve
+Hardware,FRAME-PLATE-BOLT,16,each,Bolt
+Hardware,FRAME-PLATE-NUT,16,each,Nut
+Hardware,FRONT-PANEL-NUT,6,each,Nut
+Hardware,FRONT-PANEL-SCREW,6,each,Screw
+Hardware,FRONT-PANEL-TAB-RIVET,4,each,Rivet
+Hardware,FRONT-PANEL-WASHER,6,each,Washer
+Hardware,GUSSET-SCREW-A,8,each,Screw; model size group A.
+Hardware,GUSSET-SCREW-B,4,each,Screw; model size group B.
+Hardware,GUSSET-SCREW-C,4,each,Screw; model size group C.
+Hardware,HANDLE-PIN,2,each,Complete pin; head and lanyard included.
+Hardware,HINGE-BOLT-A,2,each,Bolt; model size group A.
+Hardware,HINGE-BOLT-B,2,each,Bolt; model size group B.
+Hardware,HINGE-LUG-RIVET,28,each,Rivet
+Hardware,HINGE-NUT,4,each,Nut
+Hardware,HINGE-SLEEVE,2,each,Sleeve
+Hardware,LADDER-PIN,4,each,Complete pin; head and lanyard included.
+Hardware,LADDER-PIN-SLEEVE,4,each,Sleeve
+Hardware,LADDER-TIE-BOLT,4,each,Bolt
+Hardware,LADDER-TIE-BOLT-SLEEVE,4,each,Sleeve
+Hardware,LADDER-TIE-END-RIVET,4,each,Rivet
+Hardware,LOCK-PIN,4,each,Complete pin; head and lanyard included.
+Hardware,LOCK-SLEEVE-A,2,each,Sleeve; model size group A.
+Hardware,LOCK-SLEEVE-B,2,each,Sleeve; model size group B.
+Hardware,OUTER-BASE-BOLT,4,each,Bolt
+Hardware,OUTER-BASE-NUT,4,each,Nut
+Hardware,OUTER-BASE-SLEEVE,4,each,Sleeve
+Hardware,PIN-PARKING-EYE,2,each,Handle pin anchor eyes.
+Hardware,RAIL-ANGLE-RIVET,16,each,Rivet
+Hardware,RAIL-EAR-RIVET,8,each,Rivet
+Hardware,RAIL-PIN,4,each,Complete pin; head and lanyard included.
+Hardware,RAIL-PIN-SLEEVE,4,each,Sleeve
+Hardware,REEL-CRADLE-BOLT,4,each,Bolt
+Hardware,REEL-CRADLE-NUT,4,each,Nut
+Hardware,ROBOT-TIE-DOWN-BOLT,8,each,Bolt
+Hardware,ROBOT-TIE-DOWN-NUT,8,each,Nut
+Hardware,ROBOT-TIE-DOWN-SLEEVE,8,each,Sleeve
+Hardware,STAND-BOLT,4,each,Bolt
+Hardware,STAND-BOLT-SLEEVE,4,each,Sleeve
+Hardware,STAND-FOOT-SCREW,4,each,Screw
+Hardware,STAND-NUT,4,each,Nut
+Hardware,TOP-CROWN-BOLT,8,each,Bolt
+Hardware,TOP-CROWN-NUT,8,each,Nut
+Hardware,TOP-CROWN-SLEEVE,8,each,Sleeve
+Planned,OPERATING-STRAP,4,each,"Planned: one battery strap, one reel strap, two robot straps."
+Planned,TRANSPORT-STRAP,2,each,Planned: two straps around the folded cart bundle.
